@@ -1,0 +1,79 @@
+h1{
+    font-weight: 900;
+    font-size: 40px;
+    font-family: Karla, sans-serif;
+    text-align: center;
+    padding: 8px;
+}
+
+h5{
+    text-align: center;
+    margin: 25px;
+}
+
+body{
+    text-align: center;
+    margin: 0px 0px 30px 0px;
+}
+
+#completo{
+    background-color:rgba(202, 159, 243, 0.712);
+    font-family: Karla;
+    margin: 25px 25px;
+    border-radius: 20px;
+    padding: 60px;
+}
+
+#cargos{
+    text-align: center;
+}
+
+#dados-pessoais{
+    text-align: center;
+}
+
+ul{
+    list-style-type: none !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+}
+
+.principal a{
+    color:#ffffff;
+    text-decoration: underline;
+    margin: 0 20px;
+}
+
+.principal{
+    background-color: #91009e;
+    border-radius: 20px;
+}
+
+.principal li{
+    line-height: 2.5;
+    display: inline-block;
+}
+
+button{
+    background: #91009e;
+    color: #ffffff;
+    border: 1px solid transparent;
+    padding: 2px 20px;
+    border-radius: 20px !important;
+}
+
+label{
+    text-align: center;
+}
+
+form{
+    margin: 25px;
+    text-align: center;
+}
+
+.redonda {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
