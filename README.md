@@ -59,9 +59,13 @@ Aplicação focada em acesso à informação para a população trans.
 
 👉 https://diolenho.github.io/guia-trans-app/#/
 
+### Cases de Produto
+Portfólio no Notion
+👉 https://www.notion.so/Diogo-Almeida-Product-Manager-31d2da75adeb80368a1aecb43415ad59
+
 ---
 
 ## 📬 Contato
 
 - LinkedIn: https://www.linkedin.com/in/diogopalmeida/  
-- Portfólio: https://chipped-leotard-652.notion.site/Diogo-Almeida-Product-Manager-31d2da75adeb80368a1aecb43415ad59  
+- Portfólio: https://www.notion.so/Diogo-Almeida-Product-Manager-31d2da75adeb80368a1aecb43415ad59 
